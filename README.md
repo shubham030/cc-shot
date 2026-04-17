@@ -11,6 +11,10 @@ Capture any screen (or region) and attach it to your session — no clipboard, n
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-compatible-D97757.svg)](https://claude.com/claude-code)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
+<br />
+
+<video src="https://github.com/shubham030/cc-shot/raw/main/assets/demo.mp4" width="720" controls muted></video>
+
 </div>
 
 ---
